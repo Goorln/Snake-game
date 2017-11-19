@@ -1,0 +1,29 @@
+#map {
+  width: 800px;
+  height: 600px;
+  background-color: lightgray;
+  position: relative;
+}
+input {
+    /*height: 50px;*/
+    font-size: 20px;
+    border: none;
+    background-color: pink;
+    border-radius: 10px;
+}
+#scoreShow {
+    width: 150px;
+    font-size: 20px;
+    text-align: center;
+    background-color: pink;
+    border-radius: 10px;
+    display: inline-block;
+}
+#scoreMax {
+    width: 150px;
+    font-size: 20px;
+    text-align: center;
+    background-color: pink;
+    border-radius: 10px;
+    display: inline-block;
+}
